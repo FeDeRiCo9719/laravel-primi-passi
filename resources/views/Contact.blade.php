@@ -2,5 +2,5 @@
 
 @section('content')
     <h1>Contact Us</h1>
-    <a href="http://127.0.0.1:8000/">Torna alla Home</a>
+    <a href="{{route('home')}}">Torna alla Home</a>
 @endsection
